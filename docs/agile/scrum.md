@@ -5,7 +5,7 @@ Instead of using sprint names like Sprint 1, Sprint 2, and so on try to name 202
 
 ### Why?
 - It is easier to analyze your work after generated reports for example
-- We can [sort by string format of the date](/general-rules-and-definitions#sort-by-string-format-of-the-date)
+- We can [sort by string format of the date](/general-rules-and-definitions.md)
 
 ## Refinement
 
