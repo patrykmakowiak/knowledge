@@ -55,7 +55,6 @@ const config = {
             position: 'left',
             label: 'Knowledge',
           },
-          {to: '/blog', label: 'Blog', position: 'left'},
           {
             href: 'https://github.com/patrykmakowiak/knowledge',
             label: 'GitHub',
