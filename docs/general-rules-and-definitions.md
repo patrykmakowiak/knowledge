@@ -22,7 +22,7 @@ This point is not ready yet!
 When you want to sort out your documents (catalogs, files, pages and so much more) you can start the name with the date [YYYY-MM-DD].
 
 ### Why?
-This particular format is easy to sort by string (sort by the string is equal to sort by the date which you declare.
+This particular format is easy to sort by string (sort by the string is equal to sort by the date which you declare).
 
 ### Examples
 - [2022-11-06] Refinement

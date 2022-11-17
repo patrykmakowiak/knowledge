@@ -4,8 +4,9 @@
 Instead of using sprint names like Sprint 1, Sprint 2, and so on try to name 2022 Q4 Sprint 1, 2022 Q4 Sprint 2
 
 ### Why?
-- It is easier to analyze your work after generated reports for example
-- We can [sort by string format of the date](/general-rules-and-definitions.md)
+- It is easier to analyze your work after generated reports for example.
+- it is a good practice from a business perspective (easier synchronization and coordination of teams' work)
+- We can [sort by string format of the date](/general-rules-and-definitions.md/#sort-by-string-format-of-the-date)
 
 ## Refinement
 
