@@ -51,11 +51,10 @@ const config = {
         items: [
           {
             type: 'doc',
-            docId: 'introduction',
+            docId: 'general-rules-and-definitions',
             position: 'left',
             label: 'Knowledge',
           },
-          {to: '/blog', label: 'Blog', position: 'left'},
           {
             href: 'https://github.com/patrykmakowiak/knowledge',
             label: 'GitHub',
@@ -71,7 +70,7 @@ const config = {
             items: [
               {
                 label: 'Tutorial',
-                to: '/docs/introduction',
+                to: '/docs/general-rules-and-definitions',
               },
             ],
           },

@@ -9,7 +9,7 @@ You can create a facade for any library to avoid vendor lock-in. A great example
 ### 👎 Cons
 - Facade maintenance (tests, documentations)
 
-### In what cases should you consider creating a facade
+### In what cases should you consider creating a facade?
 - date formatter
 - metrics
 - logger 
