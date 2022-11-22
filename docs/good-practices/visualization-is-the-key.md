@@ -15,3 +15,15 @@ Create colorful cards and use arrows to represent relations between them. Thanks
 - action point 
 - implementation plan
 - deployment plan
+
+When we create a release plan, we can notice so much more from the big picture 
+- blockers and problems
+- potential bottleneck
+- ideas
+
+or get the ideas
+- maybe we should create the revert plan
+- how much time we should wait after release for 5%?
+- which approach do we want to use to make deployments?
+
+![Plan for release complex feature](/img/plan-for-release-complex-feature.png)
