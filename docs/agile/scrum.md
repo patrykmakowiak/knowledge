@@ -9,12 +9,14 @@ Instead of using sprint names like Sprint 1, Sprint 2, and so on try to name 202
 - We can [sort by string format of the date](/general-rules-and-definitions.md/#sort-by-string-format-of-the-date)
 
 ## Refinement
+The meeting is where we discuss tasks and estimate them. It is important to have easy to find one source of truth with a list of the refinements.
+Refinement list should be [sorted by date](/general-rules-and-definitions.md/#sort-by-string-format-of-the-date).
+Furthermore, it is a good practice to have one facilitator who conducts the meeting. Sprint sheriff can play the role of facilitator.
 
-:::caution
-
-This point is not ready yet!
-
-:::
+### Good refinement also have
+- agenda (preferable descripted issues)
+- timebox
+- action points
 
 ## Retro
 
@@ -47,3 +49,5 @@ This point is not ready yet!
 This point is not ready yet!
 
 :::
+
+## Sprint sheriff
